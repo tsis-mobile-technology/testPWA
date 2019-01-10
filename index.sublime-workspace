@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"se",
+				"selectedCounselor"
+			],
+			[
+				"login",
+				"loginid"
+			],
+			[
+				"I",
+				"IMessageModel"
+			],
+			[
+				"i",
+				"isautologin"
+			],
+			[
+				"is",
+				"issaveid"
+			],
+			[
+				"get",
+				"getCounselor"
+			],
+			[
+				"He",
+				"HeroesSearchComponent"
+			],
+			[
+				"he",
+				"heroesUrl"
+			],
+			[
+				"Heo",
+				"HeroesComponent"
+			],
+			[
+				"hero",
+				"heroes"
+			],
+			[
+				"hro",
+				"heroes"
+			],
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"ng",
+				"ngOnInit"
+			],
+			[
+				"Hero",
+				"HeroService"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gotaejong/Desktop/스마트메세징_월별테이블_201710.txt",
+		"/Users/gotaejong/티브로드_서버_셋팅.txt",
+		"/Users/gotaejong/icr_pr.sql",
+		"/Users/gotaejong/Downloads/succ_case.txt",
+		"/Users/gotaejong/Downloads/fail_case.txt",
+		"/Users/gotaejong/Downloads/ADI_2.XML",
+		"/Users/gotaejong/Downloads/LinuxHard/login.sh",
+		"/Users/gotaejong/Downloads/LinuxHard/ffmpeg_ubuntu.sh",
+		"/Users/gotaejong/smart_message_client_2017-03-14.sql",
+		"/Users/gotaejong/DDL_script.txt",
+		"/Users/gotaejong/Documents/쇼핑엔티_스마트메세징_정상 처리유무.sql",
+		"/Users/gotaejong/Desktop/mobiletv_log_20170308_ 스트레인져.txt",
+		"/Users/gotaejong/Downloads/listener_20161201.log",
+		"/Users/gotaejong/Downloads/listener.log",
+		"/Users/gotaejong/Downloads/listener_alert_20161201.log",
+		"/Users/gotaejong/Google 드라이브/smart_server_table",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/server/app.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/control/control.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/control/control.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/target/index.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/room/room.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/config/webpack.common.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/index.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/customer.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/app.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/nickname/nickname.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/nickname/nickname.component.scss",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/app.component.scss",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/app/control/control.component.scss",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v3/src/styles/styles.scss",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/main.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/socket/index.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/socket/message.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/socket/room.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/login/login.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/dist/client/tmsg/services/counselor.service.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/app/components/heroes/heroes.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/systemjs.config.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/app/services/hero.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/services/counselor.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/app/components/heroDetail/hero-detail.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/dist/client/systemjs.config.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/config/routes/CounselorRoutes.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/RoomBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/config/routes/Routes.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/MessageBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/CounselorBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/dataAccess/schemas/CounselorSchema.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/repository/CounselorRepository.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/repository/RoomRepository.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/repository/MessageRepository.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/interfaces/ICounselorBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/interfaces/IRoomBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/business/interfaces/IMessageBusiness.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/dataAccess/schemas/MessageSchema.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/dataAccess/schemas/RoomSchema.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/interfaces/ICounselorModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/RoomModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/interfaces/IRoomModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/interfaces/IMessageModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/models/counselor.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/CounselorModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/HeroModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/MessageModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/interfaces/CounselorModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/server/src/app/model/interfaces/HeroModel.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/common.css",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/tmsg.module.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/tmsg-routing.module.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/main/main.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/main/main.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/main/main.component.css",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/login/login.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/client/tmsg/components/login/login.component.css",
+		"/Volumes/500G/WorkspacesHTML5/tmsg-v2/package.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/nodemon.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/tsconfig.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/package.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/tmsg/rxjs-extensions.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/gulpfile.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/systemjs.config.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/tsconfig.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/tmsg.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/main.component.css",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/main.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/tslint.json",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/tmsg-routing.module.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/ionicons.min.css",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/hero-detail.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/login.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/app-routing.module.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/counselor.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/login.component.html",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/login.component.js",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/hero.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/tmsg/app/heroes.component.ts",
+		"/Users/gotaejong/Downloads/logback.xml",
+		"/Volumes/500G/WorkspacesHTML5/publish_tmsg/html/login.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/app.module.ts",
+		"/Volumes/500G/무제 폴더/tnsnames.ora",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/in-memory-data.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-detail.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-detail.component.html",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/heroes.component.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/heroes.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/heroes.component.html",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-search.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-search.component.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-search.component.html",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/rxjs-extensions.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-search.service.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/dashboard.component.html",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/app.module.js",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/app.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/dashboard.component.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-detail.component.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/index.html",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/mock-heroes.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/app-routing.module.ts",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/styles.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/app.component.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/hero-detail.compoment.css",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/app/dashboard.component.css",
+		"/Users/gotaejong/Library/Application Support/Sublime Text 3/Packages/User/typescript.sublime-build",
+		"/Volumes/500G/WorkspacesHTML5/angular-tour-of-heroes/package.json"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/typescript.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
